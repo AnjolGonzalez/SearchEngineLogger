@@ -4,11 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b1c3ac-1304-4976-afb4-e05b363a7344" name="Changes" comment="" />
+    <list default="true" id="e3b1c3ac-1304-4976-afb4-e05b363a7344" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Neighborhood-Library" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-1/PayrollCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/AddressBuilder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/CellPhoneApplication" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/FullNameGenerator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/FullNameParser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/HighScoreWins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/LoopingExercises" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/RollTheDice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/TestStatistics-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Week-2/workbook-2/TheaterReservations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BedTimeStories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousQuotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PayrollCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../financial-calculators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../workbook-1/BasicCalculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../workbook-1/MathApplication" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../workbook-1/SandwichShop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/SearchEngineLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/SearchEngineLogger.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +55,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
